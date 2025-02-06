@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 int main(){
-    int n;
-    int n1;
-    scanf("%d","%d",n,n1)
-    printf("%d\n",n+n1)
+    float n,n1,product;
+    scanf("%f","%f","%f",n1,n2,product);
+    printf("product",n*n1)
     return 0;
+
 }
