@@ -8,5 +8,5 @@ int main(){
     else{
         printf("Not Divisible");
     }
-    retirn 0;
+    return 0;
 }
